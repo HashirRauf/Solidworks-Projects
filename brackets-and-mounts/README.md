@@ -1,7 +1,7 @@
 # Brackets and Mounts
 
 ## Parts
--pedestal-bracket.SLDPRT           
--clevis-bracket.SLDPRT           
--wall-mount-bracket.SLDPRT         
--base-mount.SLDPRT   
+-pedestal-bearing-support.SLDPRT           
+-clevis-fork-mount.SLDPRT           
+-channel-mount-bracket.SLDPRT         
+-stud-mount-base.SLDPRT   
