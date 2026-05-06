@@ -29,16 +29,6 @@ no reference specifications were used.
 
 ---
 
-## Project 3: Sensor Mount Bracket
-
-A multi-feature mechanical bracket with bores, slots, and mounting points.
-
-**Techniques Used:** Extrude Boss/Base, Extrude Cut, Fillet
-
-<img src="sensor-mount.png" width="400"/>
-
----
-
 ## Documentation
 
 Full project report including 2D sketches and SolidWorks engineering drawings 
