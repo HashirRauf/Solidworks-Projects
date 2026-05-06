@@ -5,13 +5,13 @@
 ## Parts
 
 ### Spur Gear
-<img src="spur-gear.png" width="300"/>
+<img src="Spur Gear.png" width="300"/>
 
 ### Spur Gear V2
-<img src="spur-gear-2.png" width="300"/>
+<img src="Spur Gear V2.png" width="300"/>
 
 ### Pipe Elbow
-<img src="pipe-elbow.png" width="300"/>
+<img src="Pipe Elbow.png" width="300"/>
 
 ### Complex Mechanical Part
 <img src="complex-mechanical-part.png" width="300"/>
