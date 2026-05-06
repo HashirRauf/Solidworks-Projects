@@ -10,8 +10,8 @@
 ### Pencil
 <img src="pencil.png" width="450"/>
 
-### Smartphone
+### Smartphone (Not Colored Yet)
 <img src="smartphone-1.png" width="270"/> <img src="smartphone-2.png" width="350"/>
 
-### Wristwatch
+### Wristwatch (Still working on it)
 <img src="wristwatch.png" width="450"/>
