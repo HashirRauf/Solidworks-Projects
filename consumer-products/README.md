@@ -5,13 +5,13 @@
 ## Parts
 
 ### Layered Cake
-<img src="layered-cake-1.png" width="400"/> <img src="layered-cake-2.png" width="350"/>
+<img src="layered-cake-1.png" width="400"/> <img src="layered-cake-2.png" width="360"/>
 
 ### Pencil
-<img src="pencil.png" width="500"/>
+<img src="pencil.png" width="450"/>
 
 ### Smartphone
-<img src="smartphone-1.png" width="350"/> <img src="smartphone-2.png" width="350"/>
+<img src="smartphone-1.png" width="300"/> <img src="smartphone-2.png" width="350"/>
 
 ### Wristwatch
 <img src="wristwatch.png" width="500"/>
