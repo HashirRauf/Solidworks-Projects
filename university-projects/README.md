@@ -16,7 +16,7 @@ Final model achieved a mass of **95.49g**.
 
 **Techniques Used:** Extrude Boss/Base, Shell, Fillet, Chamfer, Extrude Cut
 
-<img src="y-joint-1.png" width="400"/> <img src="y-joint-2.png" width="400"/>
+<img src="y-joint-1.png" width="400"/> <img src="y-joint-2.png" width="390"/>
 
 ---
 
