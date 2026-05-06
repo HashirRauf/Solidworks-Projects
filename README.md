@@ -35,12 +35,20 @@ Everyday product models including a smartphone, wristwatch, pencil, and cake.
 Advanced and creative models including a carbon nanotube structure, 
 panda logo emblem, and surface modeling practice parts.
 
+### 📁 [University Projects](./university-projects)
+Semester project work including a Y-Joint pipe fitting (mass-constrained under 100g) 
+and a Car Dashboard modeled purely from visual reference. Includes full engineering 
+documentation and SolidWorks 2D drawings.
+
+### 📁 [Final Exam](./final-exam)
+Multi-feature mechanical housing modeled independently during the 
+end-semester final practical exam — Semester 1, Air University.
+
 ---
 
 ## Skills Demonstrated
 - 3D Part Modeling
 - Assembly Design
-- Surface Modeling
 - Feature-based Design (Extrude, Revolve, Sweep, Loft)
 - Engineering Visualization
 
