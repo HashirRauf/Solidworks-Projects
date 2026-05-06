@@ -11,7 +11,7 @@
 <img src="pencil.png" width="450"/>
 
 ### Smartphone
-<img src="smartphone-1.png" width="300"/> <img src="smartphone-2.png" width="350"/>
+<img src="smartphone-1.png" width="250"/> <img src="smartphone-2.png" width="350"/>
 
 ### Wristwatch
 <img src="wristwatch.png" width="500"/>
