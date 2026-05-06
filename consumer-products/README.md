@@ -4,14 +4,14 @@
 
 ## Parts
 
-### Smartphone
-<img src="smartphone.png" width="500"/>
-
-### Wristwatch
-<img src="wristwatch.png" width="500"/>
+### Layered Cake
+<img src="layered-cake-1.png" width="300"/> <img src="layered-cake-2.png" width="300"/>
 
 ### Pencil
 <img src="pencil.png" width="500"/>
 
-### Layered Cake
-<img src="layered-cake.png" width="500"/>
+### Smartphone
+<img src="smartphone-1.png" width="300"/> <img src="smartphone-2.png" width="300"/>
+
+### Wristwatch
+<img src="wristwatch.png" width="500"/>
