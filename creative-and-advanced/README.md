@@ -8,7 +8,7 @@ Advanced and creative 3D models demonstrating complex SolidWorks techniques.
 <img src="carbon-nanotube.png" width="400"/>
 
 ### Panda Logo
-<img src="panda-logo-1.png" width="350"/> <img src="panda-logo-2.png" width="370"/>
+<img src="panda-logo-1.png" width="350"/> <img src="panda-logo-2.png" width="350"/>
 
 ### Logo Practise
-<img src="logo practice.png" width="400"/>
+<img src="logo practise.png" width="400"/>
