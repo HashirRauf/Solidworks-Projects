@@ -11,6 +11,8 @@ at Air University, Islamabad.
 ## Project 1: Y-Joint Pipe Fitting
 
 A 3D model of a Y-joint mechanical component used in piping and duct systems.
+Designed with a **mass constraint of under 100 grams** using ABS material.
+Final model achieved a mass of **95.49g**.
 
 **Techniques Used:** Extrude Boss/Base, Shell, Fillet, Chamfer, Extrude Cut
 
@@ -20,8 +22,10 @@ A 3D model of a Y-joint mechanical component used in piping and duct systems.
 
 ## Project 2: Car Dashboard
 
-A 3D model of a car dashboard designed purely from visual imagination — 
-no reference specifications were used.
+A 3D car dashboard modeled **entirely from visual imagination** using only 
+a reference image — no manufacturer dimensions or specifications were used.
+Demonstrates ability to reverse-engineer and estimate proportions purely 
+through visualization.
 
 **Techniques Used:** Extrude Boss/Base, Shell, Extrude Cut, Fillet, Chamfer
 
