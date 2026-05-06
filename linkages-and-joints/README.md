@@ -10,7 +10,7 @@
 <img src="crank-arm-link.png" width="400"/>
 
 ### Dual Bore Pivot Bracket.
-<img src="dual-bore-pivot-bracket..png" width="400"/>
+<img src="dual-bore-pivot-bracket.png" width="400"/>
 
 ### Rocker Arm
 <img src="rocker-arm.png" width="400"/>
