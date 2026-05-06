@@ -12,7 +12,7 @@ at Air University, Islamabad.
 
 A 3D model of a Y-joint mechanical component used in piping and duct systems.
 
-**Techniques Used:** Surface Sweep, Extrude Boss/Base, Shell, Fillet, Chamfer, Extrude Cut
+**Techniques Used:** Extrude Boss/Base, Shell, Fillet, Chamfer, Extrude Cut
 
 <img src="y-joint.png" width="400"/>
 
